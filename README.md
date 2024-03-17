@@ -20,7 +20,7 @@ To run the code in this project, you'll need the following dependencies:
 You can install the required packages using pip:
 
 ## Usage
-1. Clone this repository or download the `house_prices_dataset.csv` file.
+1. Clone this repository or download the `house_price.csv` file.
 2. Install the required dependencies as mentioned above.
 3. Run the `house_price_prediction.py` script to train the linear regression model and make predictions.
 
